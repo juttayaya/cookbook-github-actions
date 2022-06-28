@@ -8,3 +8,4 @@ resource "aws_dynamodb_table" "terraform_github_actions_example" {
     type = "S"
   }
 }
+
