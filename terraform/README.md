@@ -8,3 +8,4 @@ The general workflow for Terraform
   `terraform apply` on the `dev` cloud environment
 * Users can manually invoke `terraform plan` on any environment
 * Users can manually invoke `terraform apply` on any environment
+
